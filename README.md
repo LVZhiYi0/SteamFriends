@@ -13,7 +13,17 @@
 
 ## Steam好友列表
 
-| Avatar                                                                            | Name               | steamid                                                                     | is_friend   | BFD                 | Remark   |
-|:----------------------------------------------------------------------------------|:-------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS          | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ✅           | 2022-08-14 01:06:38 |          |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT               | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ✅           | 2021-10-02 11:23:03 |          |
+| Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | Remark   |
+|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS    | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          |
+| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT         | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          |
+| ![](https://avatars.steamstatic.com/3604ac34b47c87e187d151f22aa17e107253ce34.jpg) | Solari       | [76561198863422140](https://steamcommunity.com/profiles/76561198863422140/) | ✅           | 2023-08-31 06:33:05 |          |
+| ![](https://avatars.steamstatic.com/3edab687c924d0aa4449c9eb80c0855051b1f41c.jpg) | nashhansshan | [76561198828243996](https://steamcommunity.com/profiles/76561198828243996/) | ✅           | 2023-01-02 03:20:08 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | uxw626       | [76561199395576169](https://steamcommunity.com/profiles/76561199395576169/) | ✅           | 2023-10-25 05:16:00 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | Lawrence     | [76561199091363525](https://steamcommunity.com/profiles/76561199091363525/) | ✅           | 2023-03-17 15:47:51 |          |
+| ![](https://avatars.steamstatic.com/99dcf700e1ba69d55ee4ed3aa180279c2fd0a519.jpg) | breezy       | [76561199569398397](https://steamcommunity.com/profiles/76561199569398397/) | ✅           | 2024-08-03 04:55:50 |          |
+| ![](https://avatars.steamstatic.com/889355fa03e3d2e52ddf5b2db5d24afa7d9ce8f6.jpg) | labodu       | [76561198997760620](https://steamcommunity.com/profiles/76561198997760620/) | ✅           | 2020-10-07 15:36:42 |          |
+| ![](https://avatars.steamstatic.com/d80939217b1e0c331c14ec3b3c6bd0ae8e2dc402.jpg) | 95829676     | [76561199180089446](https://steamcommunity.com/profiles/76561199180089446/) | ✅           | 2024-08-25 08:00:58 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 大地之神卡修斯      | [76561199178891264](https://steamcommunity.com/profiles/76561199178891264/) | ✅           | 2023-03-17 15:46:59 |          |
+| ![](https://avatars.steamstatic.com/e87760471dc2807c4affdf1de0287b59ffba9dcc.jpg) | monophobia   | [76561198918666282](https://steamcommunity.com/profiles/76561198918666282/) | ✅           | 2024-03-27 08:23:36 |          |
+| ![](https://avatars.steamstatic.com/757b6cbb6ed3be6a45d8543e129fbbe766857dbf.jpg) | deogon       | [76561198372652159](https://steamcommunity.com/profiles/76561198372652159/) | ✅           | 2023-09-14 11:30:24 |          |
