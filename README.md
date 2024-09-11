@@ -29,3 +29,6 @@
 | ![](https://avatars.steamstatic.com/757b6cbb6ed3be6a45d8543e129fbbe766857dbf.jpg) | deogon         | [76561198372652159](https://steamcommunity.com/profiles/76561198372652159/) | ✅           | 2023-09-14 11:30:24 |          |
 | ![](https://avatars.steamstatic.com/8205908e792d85aa4ef78a757e12ceb6c6d41c5e.jpg) | Top10Equal2Win | [76561198971480485](https://steamcommunity.com/profiles/76561198971480485/) | ✅           | 2024-09-09 16:40:39 |          |
 | ![](https://avatars.steamstatic.com/d2ef7a3bdee7cfafecfee8dceaf9bbdf478c4f6e.jpg) | 卑微小飞           | [76561198343284465](https://steamcommunity.com/profiles/76561198343284465/) | ✅           | 2024-09-09 16:40:55 |          |
+| ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 熏悟空            | [76561199493600202](https://steamcommunity.com/profiles/76561199493600202/) | ✅           | 2024-09-10 13:14:16 |          |
+| ![](https://avatars.steamstatic.com/6c4a09731b3dd9bc1c09eb9e3101a4e8e5841a3d.jpg) | 马枪高手           | [76561199445234832](https://steamcommunity.com/profiles/76561199445234832/) | ✅           | 2024-09-10 15:59:03 |          |
+| ![](https://avatars.steamstatic.com/9ab854c23ad39c58c4a0dcb78a9104a2cd9691d4.jpg) | Shiroha        | [76561199080554872](https://steamcommunity.com/profiles/76561199080554872/) | ✅           | 2024-09-10 04:01:06 |          |
