@@ -32,3 +32,4 @@
 | ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 熏悟空            | [76561199493600202](https://steamcommunity.com/profiles/76561199493600202/) | ✅           | 2024-09-10 13:14:16 |          |
 | ![](https://avatars.steamstatic.com/6c4a09731b3dd9bc1c09eb9e3101a4e8e5841a3d.jpg) | 马枪高手           | [76561199445234832](https://steamcommunity.com/profiles/76561199445234832/) | ✅           | 2024-09-10 15:59:03 |          |
 | ![](https://avatars.steamstatic.com/9ab854c23ad39c58c4a0dcb78a9104a2cd9691d4.jpg) | Shiroha        | [76561199080554872](https://steamcommunity.com/profiles/76561199080554872/) | ✅           | 2024-09-10 04:01:06 |          |
+| ![](https://avatars.steamstatic.com/126121d87dc0feb962e4a40a937a5cabd1e78dbc.jpg) | 小黑盒Deadlock传火  | [76561198965089838](https://steamcommunity.com/profiles/76561198965089838/) | ✅           | 2024-09-20 01:19:45 |          |
